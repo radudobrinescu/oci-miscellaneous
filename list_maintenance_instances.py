@@ -1,5 +1,5 @@
 # Oracle OCI - Instances flagged for reboot migration
-# Version 0.1 03-December 2018
+# Version 1.0 03-December 2018
 # Written by: radu.dobrinescu@oracle.com
 #
 # Instructions:
